@@ -12,7 +12,7 @@
     }
   },
   "server": {
-    "url": "https://challengers-live.netlify.app",
+    "url": ""url": "https://challengers-live.github.io"",
     "cleartext": false
   }
 }
